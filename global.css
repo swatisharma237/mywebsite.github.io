@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-large-400: "Work Sans";
+  --font-amarante: Amarante;
+  --font-roboto: Roboto;
+  --label-02: "Roboto Condensed";
+  --font-reenie-beanie: "Reenie Beanie";
+  --font-takota: Takota;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --heading-h4-size: 32px;
+  --heading-h5-size: 24px;
+  --label-02-size: 16px;
+  --font-size-19xl: 38px;
+  --font-size-45xl: 64px;
+  --heading-01-size: 48px;
+  --cap-02-size: 12px;
+  --body-large-400-size: 18px;
+  --body-small-400-size: 14px;
+  --heading-05-size: 20px;
+  --display-size: 72px;
+
+  /* Colors */
+  --white: #fff;
+  --color-black: #000;
+  --bhagwa: #ff9933;
+  --color-darkorange-100: rgba(255, 153, 51, 0.34);
+  --gray-900: #132238;
+  --black1: #1c1d28;
+  --black: #161722;
+  --color-gray-100: rgba(255, 255, 255, 0.15);
+  --color-seashell-100: #fcf3ee;
+  --primary: #ffd2a4;
+  --gray-500: #697484;
+  --gray-700: #424e60;
+  --primary-500: #a53dff;
+  --gray-100: #e6e8eb;
+  --color-gainsboro-100: #e7e2e2;
+  --color-thistle: rgba(237, 216, 255, 0.5);
+  --gray-600: #556070;
+  --gray-400: #87909d;
+
+  /* Gaps */
+  --gap-smi: 13px;
+  --gap-9xs: 4px;
+  --gap-13xl: 32px;
+  --gap-xl: 20px;
+  --gap-xs: 12px;
+  --gap-5xl: 24px;
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-45xl: 64px;
+  --padding-xs: 12px;
+  --padding-xl: 20px;
+  --padding-29xl: 48px;
+  --padding-13xl: 32px;
+  --padding-281xl: 300px;
+  --padding-2xl: 21px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-xs: 12px;
+  --br-3xs: 10px;
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-7xs: 6px;
+}
